@@ -6,7 +6,7 @@ const Mics = () => {
     <section className="w-full py-14">
       <div className="container flex justify-center items-center  flex-col">
         <div className="text-white text-5xl font-patuaOne leading-[48px] tracking-wide">
-          TEKONOMICS
+          Tokenomics
         </div>
         <div className=" justify-start items-start gap-6 flex-col lg:flex-row flex mt-16">
           <div className="w-[360px] h-[450px] pb-2.5 bg-white rounded-[20px] flex-col justify-start items-center inline-flex">
@@ -16,7 +16,7 @@ const Mics = () => {
                 <div className="flex-col justify-center text-center items-center gap-[11px] flex">
                   <div className="text-white text-5xl font-normal">1%</div>
                   <div className="text-white text-2xl font-normal">
-                    Total Taxß
+                    Total Tax
                   </div>
                 </div>
               </div>
