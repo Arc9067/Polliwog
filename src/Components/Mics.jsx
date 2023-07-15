@@ -42,7 +42,7 @@ const Mics = () => {
               <div className="self-stretch flex-col justify-start items-center gap-[54px] inline-flex">
                 <img className="w-[156px] h-[157px]" src={Logo} />
                 <div className="flex-col justify-center text-center items-center gap-[11px] flex">
-                  <div className="text-white text-5xl font-normal">5%</div>
+                  <div className="text-white text-5xl font-normal">2%</div>
                   <div className="text-white text-2xl font-normal">
                     Max Wallet
                   </div>
