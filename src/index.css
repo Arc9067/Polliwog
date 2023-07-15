@@ -1,0 +1,17 @@
+@import url("https://fonts.cdnfonts.com/css/patua-one");
+@import url("https://fonts.cdnfonts.com/css/otomanopee-one");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer {
+  #hero,
+  #about {
+    background: url(./assets/heroBg.png) center center no-repeat;
+    background-size: 100% 100%;
+  }
+  img {
+    @apply mx-auto;
+  }
+}
