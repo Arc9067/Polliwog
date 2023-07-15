@@ -9,15 +9,14 @@ const About = () => {
         <div className="w-full grid gap-16 lg:grid-cols-2 justify-between items-center grid-cols-1">
           <article className="flex flex-col gap-10">
             <h1 className="text-lime-600 text-6xl font-patuaOne tracking-wide">
-              About Polliwog
+              Polliwog’s Evolution
             </h1>
             <p className="text-lime-600 text-xl font-light leading-10">
-              Pepe and Toad the memecoin Launched on the ethereum. Our mission
-              is to provide a fun, community-driven investment opportunity that
-              celebrates the power of memes and pop culture. With a vision to
-              become the leading memecoin in the market, we believe Pepe and
-              Toad is the perfect addition to any investor’s portfolio. Join us
-              on this journey to revolutionize the world of memecoins.
+              Our early stages started out as an egg, our young green little
+              friend was still in the making at this stage. Once our hatchling
+              emerged we called him “Polliwog”. Polliwog wanted to become the
+              best version of himself but before that he had a lot to learn to
+              become a froglet. Adult frog (Pepe) was his ultimate form.
               <br />
             </p>
           </article>

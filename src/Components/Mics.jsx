@@ -14,9 +14,9 @@ const Mics = () => {
               <div className="self-stretch flex-col justify-start items-center gap-[54px] inline-flex">
                 <img className="w-[156px] h-[157px]" src={Logo} />
                 <div className="flex-col justify-center text-center items-center gap-[11px] flex">
-                  <div className="text-white text-5xl font-normal">10%</div>
+                  <div className="text-white text-5xl font-normal">1%</div>
                   <div className="text-white text-2xl font-normal">
-                    Total Supply
+                    Total Taxß
                   </div>
                 </div>
               </div>
@@ -27,7 +27,9 @@ const Mics = () => {
               <div className="self-stretch flex-col justify-start items-center gap-[54px] inline-flex">
                 <img className="w-[156px] h-[157px]" src={Logo} />
                 <div className="flex-col justify-center text-center items-center gap-[11px] flex">
-                  <div className="text-white text-5xl font-normal">10%</div>
+                  <div className="text-white text-5xl font-normal">
+                    1Million
+                  </div>
                   <div className="text-white text-2xl font-normal">
                     Total Supply
                   </div>
@@ -40,9 +42,9 @@ const Mics = () => {
               <div className="self-stretch flex-col justify-start items-center gap-[54px] inline-flex">
                 <img className="w-[156px] h-[157px]" src={Logo} />
                 <div className="flex-col justify-center text-center items-center gap-[11px] flex">
-                  <div className="text-white text-5xl font-normal">10%</div>
+                  <div className="text-white text-5xl font-normal">5%</div>
                   <div className="text-white text-2xl font-normal">
-                    Total Supply
+                    Max Wallet
                   </div>
                 </div>
               </div>

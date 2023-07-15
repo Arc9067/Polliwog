@@ -10,11 +10,11 @@ const Hero = () => {
         <h1 className="text-white text-6xl md:text-8xl font-patuaOne">
           Welcome To Polliwog
         </h1>
-        <p className="text-center text-white text-xl max-w-2xl  leading-relaxed">
+        {/* <p className="text-center text-white text-xl max-w-2xl  leading-relaxed">
           Pepe and Toad the memecoin Launched on the ethereum. Our mission is to
           provide a fun, community-driven investment opportunity that celebrates
           the power of memes and pop culture.{" "}
-        </p>
+        </p> */}
 
         <div className="flex items-center gap-8 flex-col md:flex-row">
           <a
