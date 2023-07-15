@@ -30,7 +30,7 @@ const Hero = () => {
             className="w-[264px] h-[60px] px-8 py-4 bg-gray-800 rounded shadow justify-center items-center gap-2.5 inline-flex"
           >
             <div className="text-white text-xl font-patuaOne leading-7 tracking-tight">
-              BUY OILLIWOG
+              BUY POLLIWOG
             </div>
           </a>
         </div>
